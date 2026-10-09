@@ -1,0 +1,5 @@
+Cluster,CustomerCount,AvgRecency,AvgFrequency,AvgMonetary,CustomerPercentage,SegmentName,MarketingRecommendation
+3,347,50.1,9.44,6543.19,11.58,High-Value Active Customers,"Reward loyalty with exclusive benefits, early access, and personalized offers."
+1,1020,95.9,2.75,1085.46,34.03,High-Value Active Customers,"Reward loyalty with exclusive benefits, early access, and personalized offers."
+0,514,391.51,1.14,340.92,17.15,Inactive / Occasional Customers,Use carefully targeted re-engagement offers and reminders; monitor campaign profitability.
+2,1116,131.14,1.16,280.09,37.24,Inactive / Occasional Customers,Use carefully targeted re-engagement offers and reminders; monitor campaign profitability.
